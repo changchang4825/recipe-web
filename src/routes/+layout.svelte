@@ -8,7 +8,7 @@
     >
         <a href="../" class="flex items-center">
             <img
-                src="https://freesvg.org/img/1548004933.png"
+                src="/images/1548004933.png"
                 class="h-8 mr-3"
                 alt=""
             />
